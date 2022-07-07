@@ -7,6 +7,8 @@ public class MyfirstProgram {
 System.out.println("Hello Priyanka");
 System.out.println("Hello Priyanka");
 System.out.println("Hello Priyanka");
+System.out.println("Hello Priyanka");
+
 	}
 
 }
